@@ -42,3 +42,23 @@ The project includes a **Streamlit web app** for interactive predictions.
     ```bash
     streamlit run app.py
     ```
+
+---
+## 🔹 Demo
+
+👉 The app will open at: `http://localhost:8501`
+
+---
+## ⚡ Learning Outcomes
+
+- With this project, you’ll learn the end-to-end ML pipeline:
+
+- Dataset loading
+
+- Preprocessing & EDA
+
+- Training & evaluation
+
+- Saving & loading ML models
+
+- Deploying with Streamlit
