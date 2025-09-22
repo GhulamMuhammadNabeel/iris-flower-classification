@@ -4,6 +4,8 @@ A simple **Machine Learning project** that classifies iris flowers into **Setosa
 The project includes a **Streamlit web app** for interactive predictions.  
 
 ---
+## Explore the [Iris Flower Classificaction App](https://iris-flower-classification-nabeel.streamlit.app/)
+
 
 ## 🔹 Features
 - Trains a Logistic Regression model on the famous Iris dataset  
